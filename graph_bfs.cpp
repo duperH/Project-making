@@ -1,5 +1,6 @@
 
 #include<iostream>
+#include<bits/stdc++.h>
 #include <list>
 
 using namespace std;
