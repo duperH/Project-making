@@ -1,5 +1,6 @@
 // C++ program to find factorial of given number
 #include <iostream>
+#include<bits/stdc++.h>
 using namespace std;
 
 // function to find factorial of given number
