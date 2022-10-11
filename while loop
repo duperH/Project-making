@@ -3,3 +3,6 @@ int i = 0 ;
 while(i < 2){
 cout<<i++;
 }
+
+return 0;
+}
